@@ -15,8 +15,9 @@ html, body {
 	height: 100%;
 	display: flex;
 	gap: var(--index);
-	background-image: url(../img/bg.jpg);
-	background-size: cover;
+	background-color: #15833e4d;
+	/* background-image: url(../img/new/bg.jpg);
+	background-size: cover; */
 	background-position: center;
 }
 .slider {
